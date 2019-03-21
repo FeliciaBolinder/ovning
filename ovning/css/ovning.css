@@ -1,0 +1,19 @@
+main {
+	
+	padding-right: 10%; 
+  padding-left: 10%;
+}
+.jumbotron {
+	
+
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: 0.3rem;
+  text-align: center;
+  
+}
+
+body {
+ background-image: ("bild/b.png");
+}
