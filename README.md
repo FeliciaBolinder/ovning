@@ -1,4 +1,4 @@
-# ovning
+# Övning
 GRUPP: Felicia, Lukas E, Hampus N
 
 VAD ska ni göra: - Planera
