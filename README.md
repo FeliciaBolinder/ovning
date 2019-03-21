@@ -12,4 +12,4 @@ Vi ska använda oss av fonterna: Titillium Web Semi Bold (till rubriker), open s
 Färgerna vi ska använda är magenta, den lila färgen från bilderna, svart och vit.
 
 VAD har ni gjort.
-
+En fin hemsida med skolans grafiska profil. Den är gjord bara för dig Jens <3
