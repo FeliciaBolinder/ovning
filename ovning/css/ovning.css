@@ -8,12 +8,78 @@ main {
 
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #e9ecef;
+  background-color: #f0f0f0;
   border-radius: 0.3rem;
   text-align: center;
   
 }
 
 body {
- background-image: ("bild/b.png");
+ background-image: url("../bild/b.png");
+ background-repeat: repeat;
+ background-position: center;
+ b
+
+ 
+}
+
+nav  { 
+
+ width: 80%;
+ font-size: 1em;
+ position: fixed;
+ background-color: #a15baa ;
+ top: 0px;
+
+
+}
+nav > ul > li {
+	
+	list-style: none;
+	display: inline;
+	padding-left: 30px;
+	height: 15px;	
+}
+
+li > a {
+	
+	
+	font-family: 'Titillium Web', sans-serif;
+	text-decoration: none;
+	color: #f0f0f0;
+}
+
+li > a:hover {
+	text-decoration: none;
+	color: #4b0082;
+}
+
+
+
+
+h1 {
+	color: #4b0082;
+
+	padding-top: 50px;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+h2 {
+	color: #4b0082;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+	padding-left: 18%;
+	padding-right: 18%;
+	color: #222222;
+	font-family: 'Open Sans', sans-serif;
+}
+
+img {
+	padding-top: 0.5%;
+}
+
+br {
+	padding-top: 10%;
 }
