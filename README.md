@@ -1,4 +1,5 @@
 # ovning
+GRUPP: Felicia, Lukas E, Hampus N
 
 VAD ska ni göra: - Planera
 En hemsida med samma layout som "rityta 1". 
